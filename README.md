@@ -6,6 +6,7 @@
 |---| ----- | ---------- | --------- | -------- |
 |03|[数组中重复的数字](https://github.com/Shaosifan/CodingInterviews/issues/4)|Easy|High|[Link](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|
 |04|[二维数组中的查找](https://github.com/Shaosifan/CodingInterviews/issues/5)|Easy| -- |[Link](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/solution/)|
+|11|[旋转数组的最小数字](https://github.com/Shaosifan/CodingInterviews/issues/6)|Easy| -- |[Link](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)|
 
 之前的:
 | # | Title | Solution | Difficulty |
