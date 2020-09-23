@@ -9,7 +9,7 @@
 |11|[旋转数组的最小数字](https://github.com/Shaosifan/CodingInterviews/issues/6)|Easy| -- |[Link](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)|
 |21|[调整数组顺序使奇数位于偶数前面](https://github.com/Shaosifan/CodingInterviews/issues/7)|Easy| -- |[Link](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|
 |51|[数组中的逆序对](https://github.com/Shaosifan/CodingInterviews/issues/1)|Hard|High|[Link](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/)|
-|56|[数组中数字出现的次数](https://github.com/Shaosifan/CodingInterviews/issues/3)|Medium|High|[Link]https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|
+|56|[数组中数字出现的次数](https://github.com/Shaosifan/CodingInterviews/issues/3)|Medium|High|[Link](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|
 
 
 ## 字符串
