@@ -18,3 +18,8 @@
 |05|[替换空格](https://github.com/Shaosifan/CodingInterviews/issues/8)|Easy| -- |[Link](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)|
 |38|[字符串的排序](https://github.com/Shaosifan/CodingInterviews/issues/2)|Medium|High|[Link](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)|
 
+## 链表
+
+## 二叉树
+
+## 栈和队列
